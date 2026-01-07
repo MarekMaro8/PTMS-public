@@ -23,5 +23,7 @@ docker-compose pull
 # 2. Uruchom system w tle
 docker-compose up -d
 ```
+Pod linkiem http://localhost powinno ukazać się strona
+
 
 Pod adresem https://docs.google.com/spreadsheets/d/1BXsZChOXBcz3ZfmMHGgou3xt2PC8WLRjDdNKnbm8SuU/edit?usp=sharing znajdują się przykładowe dane które można użyc do przetestowania
