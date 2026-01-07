@@ -14,7 +14,6 @@ Pobierz to repozytorium (jako ZIP lub przez `git clone`) i wejdź do folderu.
 ### Krok 2: Konfiguracja
 W folderze znajdziesz plik `.env.example`. 
 1. Skopiuj go i zmień nazwę kopii na `.env`.
-2. (Opcjonalnie) Możesz zmienić hasło w środku, ale domyślne `marek123` też zadziała, o ile nie masz konfliktów.
 
 ### Krok 3: Uruchomienie
 Otwórz terminal w tym folderze i wpisz dwie komendy:
