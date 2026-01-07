@@ -6,8 +6,6 @@ Witaj w wersji wdrożeniowej systemu PTMS! Ten zestaw plików pozwoli Ci uruchom
 * Zainstalowany **Docker Desktop** (uruchomiony).
 
 ## 🚀 Instrukcja Uruchomienia (Step-by-Step)
-
-<<<<<<< HEAD
 ### Krok 1: Pobierz pliki
 Pobierz to repozytorium (jako ZIP lub przez `git clone`) i wejdź do folderu.
 
