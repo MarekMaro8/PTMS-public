@@ -7,6 +7,7 @@ Witaj w wersji wdrożeniowej systemu PTMS! Ten zestaw plików pozwoli Ci uruchom
 
 ## 🚀 Instrukcja Uruchomienia (Step-by-Step)
 
+<<<<<<< HEAD
 ### Krok 1: Pobierz pliki
 Pobierz to repozytorium (jako ZIP lub przez `git clone`) i wejdź do folderu.
 
@@ -17,6 +18,11 @@ W folderze znajdziesz plik `.env.example`.
 
 ### Krok 3: Uruchomienie
 Otwórz terminal w tym folderze i wpisz dwie komendy:
+=======
+### 2. Konfiguracja
+1. Skopiuj plik `.env.example` i zmień jego nazwę na `.env`.
+2. Otwórz plik `.env` i upewnij się, że hasła są zgodne
+>>>>>>> 6c6be2a (Update .env setup instructions in README)
 
 ```bash
 # 1. Pobierz najnowsze wersje aplikacji z chmury
